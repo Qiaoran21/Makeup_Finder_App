@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap");
+
+body {
+  background-color: #edd0cd;
+  padding: 50px;
+}
+
+.App {
+  text-align: center;
+  color: rgb(77, 75, 75);
+}
+h1 {
+  font-family: Quicksand;
+  color: #737373;
+}
+
+h2 {
+  font-size: larger;
+  color: #ff6289;
+  font-family: Quicksand;
+}
+
+input {
+  height: 2rem;
+  border: none;
+  margin: auto;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  border: none;
+  background-color: #d58a94;
+  border-radius: 50px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.resultList {
+  text-align: left;
+}
+
+.listItems a {
+  text-decoration: none;
+  color: #7c7575;
+  font-family: Quicksand;
+}
+
+.🤍 {
+  background-color: #edd0cd;
+}
+
+.🖤 {
+  background-color: black;
+}
